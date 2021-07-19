@@ -1,0 +1,9 @@
+INSERT INTO employee VALUES ('Kashish', 23);
+INSERT INTO employee VALUES ('Aditya', 23);
+INSERT INTO employee VALUES ('Ankita', 75);
+INSERT INTO employee VALUES ('kankana', 25);
+INSERT INTO employee VALUES ('Apurva', 21);
+INSERT INTO employee VALUES ('Ashima', 65);
+INSERT INTO employee VALUES ('Sourabh', 60);
+INSERT INTO employee VALUES ('Pallavi', 92);
+INSERT INTO employee VALUES ('Jackson', 78);
